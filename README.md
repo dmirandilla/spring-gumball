@@ -24,11 +24,16 @@
 GKE_SA_KEY
 ![image](https://user-images.githubusercontent.com/86587313/168498623-e3f8ecff-9fe1-49e2-9d44-1e5695307038.png)
 
-
 GKE_PROJECT:
 ![image](https://user-images.githubusercontent.com/86587313/168498366-3a13f4c9-ee18-4c25-8f78-a5d13621a9e1.png)
 
-3.
+![image](https://user-images.githubusercontent.com/86587313/168498775-f9c48fb2-9c64-4c3e-9f9d-4741ab66d4bc.png)
+
+
+3.Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, and DEPLOYMENT_NAME environment variables (see example below).
+
+Changes:
+![image](https://user-images.githubusercontent.com/86587313/168499723-9f7d72af-8c93-4bcd-8a62-1681f222832e.png)
 
 Creating service account
 ![image](https://user-images.githubusercontent.com/86587313/168498539-d588fdbf-92fc-4755-b297-cb644d804070.png)
