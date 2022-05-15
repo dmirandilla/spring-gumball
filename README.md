@@ -15,3 +15,8 @@
 
 **CI Workflow Part 2**
 
+1. Ensure that your repository contains the necessary configuration for your Google Kubernetes Engine cluster, including deployment.yml, kustomization.yml, service.yml, etc.
+
+![image](https://user-images.githubusercontent.com/86587313/168497767-b5533593-af8d-45a2-acb8-51a67afadd85.png)
+
+2. 
