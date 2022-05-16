@@ -40,3 +40,13 @@ Creating service account
 
 Adding key 
 ![image](https://user-images.githubusercontent.com/86587313/168498567-9d4e8d58-fd61-4a76-88be-6eb5b82817fa.png)
+
+4. Trigger a CD Deployment by creating a new GitHub Release
+
+![image](https://user-images.githubusercontent.com/86587313/168501121-504727b1-0302-4f8b-98ad-96429cec00bf.png)
+Error: I am able to run through docker but I am facing issues with GCP 
+
+Notes: 
+- After uploading deployment, ingress, and service yaml files to GCP, it is not recognizing the files properly. 
+- I believe it has something to do with some minor changes I need to make to the yaml files but I am not 100% sure which ones to make
+- Also there may have been an error in using gradle commands 
